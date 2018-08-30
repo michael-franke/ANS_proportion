@@ -1,0 +1,3 @@
+- 20 participants recruited via MTurk on August 28
+- pair $1.8 for compensation
+- there was one double-submission by a participant
